@@ -1,5 +1,8 @@
 # Electron Screen Recorder
 
-Build a screen recorder with Electron from scratch. 
+Tis is an Electron made application in order to code in JavScript and run it on desktop.
+This application record any open screen we want.
+This is a screenshot from the working project.
 
-Watch the [Electron 8 Tutorial](https://youtu.be/3yqDxhR2XxE) on YouTube. 
+
+![alt text](https://github.com/MohamedEZ-ZAROUALY/Electron-ScreenRecorder/blob/main/Thumbnail/Screenshot%202022-08-22%20103818.png)
